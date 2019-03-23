@@ -1,10 +1,8 @@
-package other.round547;
+package competitiveProgramming.codeforces.round547;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.List;
 
 public class MaxRelax {
     public static void main(String[] args) throws IOException {

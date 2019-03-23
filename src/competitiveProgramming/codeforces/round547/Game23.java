@@ -1,4 +1,4 @@
-package other.round547;
+package competitiveProgramming.codeforces.round547;
 
 import java.io.BufferedReader;
 import java.io.IOException;
