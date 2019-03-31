@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08152d01-a8b2-485a-8d41-39115609bab4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/competitiveProgramming/notebook/FastReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/segmentTree/FindMaxOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/segmentTree/FindNumOfElemsLargerX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/competitiveProgramming/codeforces/round549/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/competitiveProgramming/codeforces/round549/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/competitiveProgramming/codeforces/round549/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/DNFMinimization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/segmentTree/ChangingTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/segmentTree/FindFirstZero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/arrayAndString/AddBinary.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/arrayAndString/ArrayPartition.class" beforeDir="false" />
@@ -250,12 +253,6 @@
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/trie/WordSearch$Pair.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/trie/WordSearch$Trie.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/trie/WordSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/eduRound62/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/competitiveProgramming/codeforces/eduRound62/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/eduRound62/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/competitiveProgramming/codeforces/eduRound62/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/round547/Game23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/competitiveProgramming/codeforces/round547/Game23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/round547/MaxRelax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/competitiveProgramming/codeforces/round547/MaxRelax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/round548/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/competitiveProgramming/codeforces/round548/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/round548/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/competitiveProgramming/codeforces/round548/B.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -270,26 +267,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FindMaxOfArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/segmentTree/FindMaxOfArray.java">
+      <file leaf-file-name="C.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/competitiveProgramming/codeforces/round549/C.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+            <state relative-caret-position="765">
+              <caret line="45" column="42" lean-forward="true" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindNumOfElemsLargerX.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/segmentTree/FindNumOfElemsLargerX.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1017#1038#0" />
               </folding>
             </state>
           </provider>
@@ -339,15 +323,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/binaryTree/SurroundedRegions.java" />
-        <option value="$PROJECT_DIR$/src/binaryTree/FriendCircles.java" />
-        <option value="$PROJECT_DIR$/src/binaryTree/CourseSchedule.java" />
-        <option value="$PROJECT_DIR$/src/other/DecodeWays.java" />
-        <option value="$PROJECT_DIR$/src/trie/WordLadder.java" />
-        <option value="$PROJECT_DIR$/src/stack/BalancedBrackets.java" />
-        <option value="$PROJECT_DIR$/src/stack/GameOfTwoStacks.java" />
-        <option value="$PROJECT_DIR$/src/other/ChocolateFiesta.java" />
-        <option value="$PROJECT_DIR$/src/other/FibonacciModified.java" />
         <option value="$PROJECT_DIR$/src/other/SamAndSubStrings.java" />
         <option value="$PROJECT_DIR$/src/other/ConstructTheArray.java" />
         <option value="$PROJECT_DIR$/src/other/BeutifulStrings.java" />
@@ -390,6 +365,15 @@
         <option value="$PROJECT_DIR$/src/competitiveProgramming/codeforces/FindMaxOfArray.java" />
         <option value="$PROJECT_DIR$/src/segmentTree/FindMaxOfArray.java" />
         <option value="$PROJECT_DIR$/src/segmentTree/FindNumOfElemsLargerX.java" />
+        <option value="$PROJECT_DIR$/src/segmentTree/FindFrstZero.java" />
+        <option value="$PROJECT_DIR$/src/segmentTree/FindFirstZero.java" />
+        <option value="$PROJECT_DIR$/src/other/DNFMinimization.java" />
+        <option value="$PROJECT_DIR$/src/segmentTree/InterestingArray.java" />
+        <option value="$PROJECT_DIR$/src/segmentTree/ChangingTree.java" />
+        <option value="$PROJECT_DIR$/src/competitiveProgramming/codeforces/round549/A.java" />
+        <option value="$PROJECT_DIR$/src/competitiveProgramming/codeforces/round549/B.java" />
+        <option value="$PROJECT_DIR$/src/competitiveProgramming/codeforces/round549/C.java" />
+        <option value="$PROJECT_DIR$/src/competitiveProgramming/codeforces/round549/D.java" />
       </list>
     </option>
   </component>
@@ -410,7 +394,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -455,6 +438,7 @@
       </pane>
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -481,42 +465,42 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindNumOfElemsLargerX">
+  <component name="RunManager" selected="Application.C">
     <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="competitiveProgramming.codeforces.eduRound62.A" />
+      <option name="MAIN_CLASS_NAME" value="competitiveProgramming.codeforces.round549.A" />
       <module name="Algorithms, Data Structures and Competitive Programming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="competitiveProgramming.codeforces.eduRound62.*" />
+          <option name="PATTERN" value="competitiveProgramming.codeforces.round549.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="competitiveProgramming.codeforces.eduRound62.B" />
+      <option name="MAIN_CLASS_NAME" value="competitiveProgramming.codeforces.round549.B" />
       <module name="Algorithms, Data Structures and Competitive Programming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="competitiveProgramming.codeforces.eduRound62.*" />
+          <option name="PATTERN" value="competitiveProgramming.codeforces.round549.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.eduRound62.C" />
+      <option name="MAIN_CLASS_NAME" value="competitiveProgramming.codeforces.round549.C" />
       <module name="Algorithms, Data Structures and Competitive Programming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="competitiveProgramming.codeforces.eduRound62.*" />
+          <option name="PATTERN" value="competitiveProgramming.codeforces.round549.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FindMaxOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="segmentTree.FindMaxOfArray" />
+    <configuration name="ChangingTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="segmentTree.ChangingTree" />
       <module name="Algorithms, Data Structures and Competitive Programming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -526,8 +510,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FindNumOfElemsLargerX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="segmentTree.FindNumOfElemsLargerX" />
+    <configuration name="InterestingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="segmentTree.InterestingArray" />
       <module name="Algorithms, Data Structures and Competitive Programming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -579,19 +563,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.A (1)" />
-      <item itemvalue="Application.B (1)" />
+      <item itemvalue="Application.InterestingArray" />
+      <item itemvalue="Application.ChangingTree" />
+      <item itemvalue="Application.A" />
+      <item itemvalue="Application.B" />
       <item itemvalue="Application.C" />
-      <item itemvalue="Application.FindMaxOfArray" />
-      <item itemvalue="Application.FindNumOfElemsLargerX" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindNumOfElemsLargerX" />
-        <item itemvalue="Application.FindMaxOfArray" />
         <item itemvalue="Application.C" />
-        <item itemvalue="Application.B (1)" />
-        <item itemvalue="Application.A (1)" />
+        <item itemvalue="Application.B" />
+        <item itemvalue="Application.A" />
+        <item itemvalue="Application.ChangingTree" />
+        <item itemvalue="Application.InterestingArray" />
       </list>
     </recent_temporary>
   </component>
@@ -690,7 +674,16 @@
       <workItem from="1553182304590" duration="3996000" />
       <workItem from="1553267140433" duration="8502000" />
       <workItem from="1553350832555" duration="172000" />
-      <workItem from="1553351106648" duration="12504000" />
+      <workItem from="1553351106648" duration="12799000" />
+      <workItem from="1553434729095" duration="4619000" />
+      <workItem from="1553462885869" duration="594000" />
+      <workItem from="1553624713315" duration="3572000" />
+      <workItem from="1553696078182" duration="3815000" />
+      <workItem from="1553711209892" duration="247000" />
+      <workItem from="1553724075821" duration="2879000" />
+      <workItem from="1553756528904" duration="1239000" />
+      <workItem from="1553788912767" duration="6424000" />
+      <workItem from="1553964760801" duration="6681000" />
     </task>
     <task id="LOCAL-00001" summary="My Task B solution for Educational Codeforces Round 61">
       <created>1551816971674</created>
@@ -706,15 +699,21 @@
       <option name="project" value="LOCAL" />
       <updated>1553351361756</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Started learning Segment Tree. Solved 2 classical problems. Added FastReader class - fast input tool.">
+      <created>1553367115810</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1553367115810</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="812109000" />
+    <option name="totallyTimeSpent" value="842474000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="1" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -730,7 +729,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11691023" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20563674" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -738,8 +737,8 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32409382" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info active="true" anchor="right" id="Coverage" order="8" side_tool="true" visible="true" weight="0.0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -756,19 +755,20 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My Task B solution for Educational Codeforces Round 61" />
     <MESSAGE value="Added solutions for 3 last Codeforces rounds. Module was renamed." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solutions for 3 last Codeforces rounds. Module was renamed." />
+    <MESSAGE value="Started learning Segment Tree. Solved 2 classical problems. Added FastReader class - fast input tool." />
+    <option name="LAST_COMMIT_MESSAGE" value="Started learning Segment Tree. Solved 2 classical problems. Added FastReader class - fast input tool." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/competitiveProgramming/codeforces/round547/Game23.java</url>
+          <url />
           <line>10</line>
           <properties />
           <option name="timeStamp" value="148" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/competitiveProgramming/codeforces/round547/Game23.java</url>
+          <url />
           <line>17</line>
           <properties />
           <option name="timeStamp" value="149" />
@@ -778,56 +778,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/other/LuckyNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrayAndString/LongestIncreasingSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrayAndString/LongestCommonSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/queue/ShortestReach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/graphs/FindThePath.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/io/FileWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/graphs/JourneyToTheMoon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/graphs/Kruskal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/other/ConstructTheArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1058,29 +1008,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/competitiveProgramming/claa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/competitiveProgramming/notebook/FastReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/competitiveProgramming/claa.java" />
     <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
@@ -1088,10 +1019,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/DNFMinimization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/segmentTree/FindFirstZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/segmentTree/FindMaxOfArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        <state relative-caret-position="17">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1100,11 +1048,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/segmentTree/FindNumOfElemsLargerX.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="493">
+          <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/segmentTree/InterestingArray.java" />
+    <entry file="file://$PROJECT_DIR$/src/segmentTree/ChangingTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3043">
+          <caret line="179" column="20" selection-start-line="179" selection-start-column="20" selection-end-line="179" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1017#1038#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/competitiveProgramming/notebook/FastReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/competitiveProgramming/codeforces/round549/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="137" column="9" lean-forward="true" selection-start-line="137" selection-start-column="9" selection-end-line="137" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/competitiveProgramming/codeforces/round549/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/competitiveProgramming/codeforces/round549/D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="44" column="40" lean-forward="true" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/competitiveProgramming/codeforces/round549/C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="42" lean-forward="true" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
